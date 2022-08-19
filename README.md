@@ -1,4 +1,4 @@
-# Hello There :simple_smile:
+# Hello There :smiley:
 
 I'm a young adult looking for an apprenticeship in Front-end Web Development/Software Development in the North East of England. 
 
