@@ -3,7 +3,7 @@
 I'm a young adult looking for an apprenticeship in Front-end Web Development/Software Development in the North East of England. 
 
 * My most complex project is [The Ghostly Coder](https://github.com/EthanHunter7/TheGhostlyCoder) :ghost:
- 
+* My most recent project is [Responsive-Club-Website](https://github.com/EthanHunter7/Responsive-Club-Website) :climbing:
  
  ## Courses 
  
@@ -31,7 +31,11 @@ While I have been doing this Codecademy course they asked me to do some off-plat
 
 The off-platform projects that are in my repositories are 
 * [CheatSheet](https://github.com/EthanHunter7/CheatSheet)
+* [Company-Home-Page](https://github.com/EthanHunter7/Company-Home-Page)
 * [Dasmoto-s-arts](https://github.com/EthanHunter7/Dasmoto-s-arts)
 * [DesignSystem](https://github.com/EthanHunter7/DesignSystem)
+* [Fotomatic](https://github.com/EthanHunter7/Fotomatic)
+* [Responsive-Club-Website](https://github.com/EthanHunter7/Responsive-Club-Website)
+* [Tea Cozy](https://github.com/EthanHunter7/TeaCozy)
 
 I have also completed the Codecademy Learn JavaScript course which you can view the certificate [here](/Java%20Script%20Certificate.pdf)
